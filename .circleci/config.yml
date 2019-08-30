@@ -48,7 +48,8 @@ job_environments:
     GOOGLE_PROJECT_ID: planet4-production
     HELM_NAMESPACE: israel
     HELM_RELEASE: planet4-israel-master
-    MIN_REPLICA_COUNT: 2
+    MIN_REPLICA_COUNT: 1
+    MAX_REPLICA_COUNT: 1
     NEWRELIC_APPNAME: P4 Israel Production
     WP_DB_NAME: planet4-israel_wordpress_master
     WP_STATELESS_BUCKET: planet4-israel-stateless
@@ -506,7 +507,7 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - master-dont-run
     jobs:
       - create-sync-sql:
           context: org-global

@@ -3,7 +3,8 @@
 	"description": "Greenpeace P4 Israel",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-israel": "*"
+		"greenpeace/planet4-child-theme-israel": "*",
+		"wpackagist-plugin/ivrita": "0.*"
 	},
 	"scripts": {
 		"core:language": "wp language core install he_IL; wp language core activate he_IL",

@@ -8,7 +8,8 @@
         "wpackagist-plugin/contact-form-7": "5.3.2",
         "wpackagist-plugin/cf7-to-api-basic-auth": "1.4.5",
         "wpackagist-plugin/wp-munich-blocks": "0.10.2",
-        "wpackagist-plugin/simple-payment": "2.0.7"
+        "wpackagist-plugin/simple-payment": "2.0.7",
+        "wpackagist-plugin/easy-utm-tracking-with-contact-form-7": "2.0.4"
     },
     "scripts": {
         "core:language": "wp language core install he_IL; wp language core activate he_IL",

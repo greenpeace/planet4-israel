@@ -9,7 +9,7 @@
         "wpackagist-plugin/cf7-to-api-basic-auth": "1.4.5",
         "wpackagist-plugin/wp-munich-blocks": "0.10.2",
         "wpackagist-plugin/simple-payment": "2.0.7",
-        "wpackagist-plugin/contact-forms-anti-spam": "0.2.2",
+        "wpackagist-plugin/contact-forms-anti-spam": "0.4.2",
         "wpackagist-plugin/easy-utm-tracking-with-contact-form-7": "2.0.4"
     },
     "scripts": {

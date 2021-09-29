@@ -5,11 +5,7 @@
     "require": {
         "greenpeace/planet4-child-theme-israel": "*",
         "wpackagist-plugin/ivrita": "0.*",
-        "wpackagist-plugin/contact-form-7": "5.4.2",
-        "wpackagist-plugin/cf7-to-api-basic-auth": "1.4.5",
-        "wpackagist-plugin/wp-munich-blocks": "0.10.2",
-        "wpackagist-plugin/contact-forms-anti-spam": "0.4.3",
-        "wpackagist-plugin/easy-utm-tracking-with-contact-form-7": "2.0.4"
+        "wpackagist-plugin/wp-munich-blocks": "0.10.2"
     },
     "scripts": {
         "core:language": "wp language core install he_IL; wp language core activate he_IL",

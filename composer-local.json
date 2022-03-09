@@ -5,7 +5,6 @@
   "require": {
     "greenpeace/planet4-child-theme-israel": "dev-main",
     "wpackagist-plugin/ivrita": "0.*",
-    "wpackagist-plugin/wp-munich-blocks": "0.10.2",
     "wpackagist-plugin/advanced-backgrounds":"1.7.7"
   },
   "scripts": {

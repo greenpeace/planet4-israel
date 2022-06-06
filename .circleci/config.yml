@@ -499,24 +499,12 @@ workflows:
   production:
     unless: << pipeline.parameters.rollback >>
     jobs:
-      - visualtests-reference:
-          <<: *on_release_tag
       - build:
           <<: *on_release_tag
       - deploy-staging:
           <<: *on_release_tag
           requires:
             - build
-            - visualtests-reference
-      - test-staging:
-          <<: *on_release_tag
-          requires:
-            - deploy-staging
-      - visualtests-compare:
-          <<: *on_release_tag
-          notify: true
-          requires:
-            - deploy-staging
       - rollback-staging:
           <<: *on_release_tag
           type: approval
@@ -536,7 +524,6 @@ workflows:
           notify: true
           is_prod: true
           requires:
-            - test-staging
             - hold-production
   rollback:
     when: << pipeline.parameters.rollback >>

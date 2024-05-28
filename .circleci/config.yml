@@ -442,7 +442,6 @@ workflows:
           <<: *on_release_tag
           requires:
             - build
-            - visualtests-reference
       - visualtests-compare:
           <<: *on_release_tag
           notify: true

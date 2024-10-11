@@ -1,0 +1,10 @@
+{
+  "require": {
+    "wpackagist-plugin/woocommerce": "9.*",
+    "wpackagist-plugin/payplus-payment-gateway": "7.1.0",
+    "wpackagist-plugin/woo-salesforce-plugin-crm-perks": "1.*",
+    "wpackagist-plugin/makewebbetter-hubspot-for-woocommerce": "1.*",
+    "wpackagist-plugin/wp-hubspot-woocommerce": "1.*"
+  }
+}
+

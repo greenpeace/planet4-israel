@@ -4,6 +4,7 @@
     "wpackagist-plugin/payplus-payment-gateway": "7.1.0",
     "wpackagist-plugin/woo-salesforce-plugin-crm-perks": "1.*",
     "wpackagist-plugin/makewebbetter-hubspot-for-woocommerce": "1.*",
-    "wpackagist-plugin/wp-hubspot-woocommerce": "1.*"
+    "wpackagist-plugin/wp-hubspot-woocommerce": "1.*",
+    "greenpeace/planet4-master-theme": "dev-PLANET-8065_gf-not-sync-with-hubspot"
   }
 }

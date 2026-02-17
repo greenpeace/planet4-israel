@@ -4,7 +4,7 @@
   "license": "MIT",
   "require": {
     "greenpeace/planet4-child-theme-israel": "dev-main",
-    "wpackagist-plugin/ivrita": "0.*",
+    "wpackagist-plugin/ivrita": "1.*",
     "wpackagist-plugin/advanced-backgrounds":"1.7.7",
     "wpackagist-plugin/shorthand-connect": "1.3.29",
     "wpackagist-plugin/visual-web-optimizer":"4.5",

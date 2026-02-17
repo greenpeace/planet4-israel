@@ -10,6 +10,10 @@
     "wpackagist-plugin/visual-web-optimizer":"4.5",
     "wpackagist-plugin/tabnav-accessibility-widget":"1.0.5",
     "wpackagist-plugin/bing-webmaster-tools":"1.0.13",
+    "wpackagist-plugin/yoast-seo-settings-xml-csv-import":"1.1.8",
+    "wpackagist-plugin/yoast-seo-fix-for-qtranslate":"1.2.4",
+    "wpackagist-plugin/bulk-image-alt-text-with-yoast":"2.2.2",
+    "wpackagist-plugin/clean-yoast-seo-cache":"1.0.1",
     "wpackagist-plugin/maintenance": "4.12"
   },
   "scripts": {

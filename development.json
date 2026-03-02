@@ -1,6 +1,6 @@
 {
   "require": {
-    "greenpeace/timesuite": "v0.1.0",
+    "greenpeace/timesuite": "0.1.0",
     "wpackagist-plugin/woocommerce": "9.*",
     "wpackagist-plugin/payplus-payment-gateway": "7.1.0",
     "wpackagist-plugin/woo-salesforce-plugin-crm-perks": "1.*",

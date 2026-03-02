@@ -2,6 +2,12 @@
   "name": "greenpeace/planet4-israel",
   "description": "Greenpeace P4 Israel",
   "license": "MIT",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/greenpeace/timesuite.git"
+    }
+  ],
   "require": {
     "greenpeace/planet4-child-theme-israel": "dev-main",
     "wpackagist-plugin/ivrita":"1.0.0",

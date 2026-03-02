@@ -6,11 +6,5 @@
     "wpackagist-plugin/woo-salesforce-plugin-crm-perks": "1.*",
     "wpackagist-plugin/makewebbetter-hubspot-for-woocommerce": "1.*",
     "wpackagist-plugin/wp-hubspot-woocommerce": "1.*"
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/greenpeace/timesuite.git"
-    }
-  ]
+  }
 }

@@ -7,6 +7,7 @@
     "wpackagist-plugin/makewebbetter-hubspot-for-woocommerce": "1.*",
     "wpackagist-plugin/wp-hubspot-woocommerce": "1.*",
     "wpackagist-plugin/alt-magic-ai-powered-alt-texts": "1.*",
-    "plugins/everyalt": "*"
+    "plugins/everyalt": "*",
+    "plugins/shorthand-editor": "*"
   }
 }

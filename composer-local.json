@@ -2,13 +2,42 @@
   "name": "greenpeace/planet4-israel",
   "description": "Greenpeace P4 Israel",
   "license": "MIT",
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "plugins/everyalt",
+        "version": "1.0.1",
+        "dist": {
+          "url": "https://storage.googleapis.com/planet4-3rdparty-plugins/everyalt-1.0.1.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "plugins/shorthand-editor",
+        "version": "1.0.2",
+        "dist": {
+          "url": "https://storage.googleapis.com/planet4-3rdparty-plugins/shorthand-editor_1.0.2.zip",
+          "type": "zip"
+        }
+      }
+    }
+  ],
   "require": {
     "greenpeace/planet4-child-theme-israel": "dev-main",
-    "wpackagist-plugin/ivrita": "0.*",
+    "wpackagist-plugin/ivrita":"1.0.0",
     "wpackagist-plugin/advanced-backgrounds":"1.7.7",
     "wpackagist-plugin/shorthand-connect": "1.3.29",
     "wpackagist-plugin/visual-web-optimizer":"4.5",
-    "wpackagist-plugin/enable-accessibility":"1.4.1",
+    "wpackagist-plugin/tabnav-accessibility-widget":"1.0.5",
+    "wpackagist-plugin/bing-webmaster-tools":"1.0.13",
+    "wpackagist-plugin/yoast-seo-settings-xml-csv-import":"1.1.8",
+    "wpackagist-plugin/yoast-seo-fix-for-qtranslate":"1.2.4",
+    "wpackagist-plugin/bulk-image-alt-text-with-yoast":"2.2.2",
+    "wpackagist-plugin/clean-yoast-seo-cache":"1.0.1",
     "wpackagist-plugin/maintenance": "4.12",
     "wpackagist-plugin/indexnow": "1.0.*"
   },

@@ -6,17 +6,6 @@
     {
       "type": "package",
       "package": {
-        "name": "plugins/everyalt",
-        "version": "1.0.1",
-        "dist": {
-          "url": "https://storage.googleapis.com/planet4-3rdparty-plugins/everyalt-1.0.1.zip",
-          "type": "zip"
-        }
-      }
-    },
-    {
-      "type": "package",
-      "package": {
         "name": "plugins/shorthand-editor",
         "version": "1.0.2",
         "dist": {

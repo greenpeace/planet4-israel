@@ -7,9 +7,9 @@
       "type": "package",
       "package": {
         "name": "plugins/shorthand-editor",
-        "version": "1.0.2",
+        "version": "1.0.5",
         "dist": {
-          "url": "https://storage.googleapis.com/planet4-3rdparty-plugins/shorthand-editor_1.0.2.zip",
+          "url": "https://storage.googleapis.com/planet4-3rdparty-plugins/the-shorthand-editor_1.0.5.zip",
           "type": "zip"
         }
       }

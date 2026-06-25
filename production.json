@@ -3,6 +3,7 @@
     "greenpeace/planet4-child-theme-israel": "v0.*",
     "greenpeace/timesuite": "0.1.11",
     "greenpeace/planet4-seo-internal-linker": "0.1.0",
-    "greenpeace/planet4-scrollytelling": "1.0.0"
+    "greenpeace/planet4-scrollytelling": "1.0.0",
+    "greenpeace/planet4-googlenews": "1.0.0"
   }
 }

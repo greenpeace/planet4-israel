@@ -29,7 +29,8 @@
     "wpackagist-plugin/bulk-image-alt-text-with-yoast":"2.2.2",
     "wpackagist-plugin/clean-yoast-seo-cache":"1.0.1",
     "wpackagist-plugin/maintenance": "4.12",
-    "wpackagist-plugin/indexnow": "1.0.*"
+    "wpackagist-plugin/indexnow": "1.0.*",
+    "wpackagist-plugin/alt-magic-ai-powered-alt-texts": "1.*"
   },
   "scripts": {
     "core:language": "wp language core install he_IL; wp language core activate he_IL",

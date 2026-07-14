@@ -14,6 +14,7 @@
     "wpackagist-plugin/woo-salesforce-plugin-crm-perks": "1.*",
     "wpackagist-plugin/makewebbetter-hubspot-for-woocommerce": "1.*",
     "wpackagist-plugin/wp-hubspot-woocommerce": "1.*",
-    "plugins/shorthand-editor": "*"
+    "plugins/shorthand-editor": "*",
+    "greenpeace/mishelanu-page": "1.0.0"
   }
 }

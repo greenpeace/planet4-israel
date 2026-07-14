@@ -5,6 +5,7 @@
     "greenpeace/planet4-seo-internal-linker": "1.1.0",
     "greenpeace/planet4-scrollytelling": "1.0.0",
     "greenpeace/planet4-goals": "1.0.2",
-    "greenpeace/planet4-googlenews": "1.0.0"
+    "greenpeace/planet4-googlenews": "1.0.0",
+    "greenpeace/optimonk-gf-generator": "0.1.0"
   }
 }

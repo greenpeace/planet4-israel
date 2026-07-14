@@ -7,6 +7,7 @@
     "greenpeace/planet4-googlenews": "1.0.1",
     "greenpeace/planet4-social-proof": "1.1.2",
     "greenpeace/planet4-seo-trend-keywords": "1.1.0",
+    "greenpeace/optimonk-gf-generator": "0.1.0",
     "wpackagist-plugin/woocommerce": "9.*",
     "wpackagist-plugin/payplus-payment-gateway": "7.1.0",
     "wpackagist-plugin/woo-salesforce-plugin-crm-perks": "1.*",

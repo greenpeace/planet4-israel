@@ -1,6 +1,6 @@
 {
   "require": {
-    "greenpeace/timesuite": "0.1.13",
+    "greenpeace/timesuite": "0.1.14",
     "greenpeace/planet4-seo-internal-linker": "1.1.0",
     "greenpeace/planet4-scrollytelling": "1.1.0",
     "greenpeace/planet4-goals": "1.0.2",

@@ -1,7 +1,7 @@
 {
   "require": {
     "greenpeace/planet4-child-theme-israel": "v0.*",
-    "greenpeace/timesuite": "0.1.16",
+    "greenpeace/timesuite": "0.1.17",
     "greenpeace/planet4-seo-internal-linker": "1.1.0",
     "greenpeace/planet4-scrollytelling": "1.4.1",
     "greenpeace/planet4-goals": "1.0.2",

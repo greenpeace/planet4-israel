@@ -1,6 +1,5 @@
 {
   "require": {
-    "greenpeace/planet4-master-theme": "dev-fix-donate-btn-rtl",
     "greenpeace/timesuite": "0.1.17",
     "greenpeace/planet4-seo-internal-linker": "1.1.0",
     "greenpeace/planet4-scrollytelling": "1.4.1",

@@ -15,7 +15,6 @@
     "wpackagist-plugin/makewebbetter-hubspot-for-woocommerce": "1.*",
     "wpackagist-plugin/wp-hubspot-woocommerce": "1.*",
     "plugins/shorthand-editor": "*",
-    "greenpeace/mishelanu-page": "1.0.0",
-    "greenpeace/planet4-master-theme": "dev-wss-csp-fix"
+    "greenpeace/mishelanu-page": "1.0.0"
   }
 }

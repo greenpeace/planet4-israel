@@ -16,6 +16,6 @@
     "wpackagist-plugin/wp-hubspot-woocommerce": "1.*",
     "plugins/shorthand-editor": "*",
     "greenpeace/mishelanu-page": "1.0.0",
-    "greenpeace/gp-donation-gifts": "0.2.6"
+    "greenpeace/gp-donation-gifts": "0.3.0"
   }
 }

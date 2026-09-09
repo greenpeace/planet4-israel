@@ -1,7 +1,7 @@
 {
   "require": {
     "greenpeace/timesuite": "0.1.19",
-    "greenpeace/planet4-seo-internal-linker": "1.1.1",
+    "greenpeace/planet4-seo-internal-linker": "1.1.2",
     "greenpeace/planet4-scrollytelling": "1.4.1",
     "greenpeace/planet4-goals": "1.0.2",
     "greenpeace/planet4-googlenews": "1.0.1",

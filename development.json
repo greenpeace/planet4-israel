@@ -17,6 +17,7 @@
     "plugins/shorthand-editor": "*",
     "greenpeace/mishelanu-page": "1.0.0",
     "greenpeace/gp-donation-gifts": "0.3.0",
-    "greenpeace/planet4-stitch-importer": "0.2.1"
+    "greenpeace/planet4-stitch-importer": "0.2.1",
+    "greenpeace/planet4-site-backup": "0.2.0"
   }
 }
